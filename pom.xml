@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Stanislaw_Karwala_Java_Krakow</artifactId>
+    <artifactId>payment-optimizer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
